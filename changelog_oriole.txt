@@ -1,4 +1,0 @@
-Update 13 October 2024
-- October Security Patch
-- Freeze Vendor SPL
-- Updated Translation

@@ -1,6 +1,0 @@
-Device Changes:
-- Initial Android 15 build (CLEAN FLASH IS MANDATORY)
-
-DerpFest Source Changes:
-- Initial DerpFest 15
-- Merge October security patches
