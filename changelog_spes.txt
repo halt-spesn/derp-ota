@@ -1,3 +1,7 @@
+Initial build
+- Miui camera built-in 
+- KernelSU built-in
+- Screen frequency bumped to 94-75
 - Override Camera2
 - Override DocumentsUI
 - Fix keyguard padding and status_bar_padding_start
